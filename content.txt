@@ -1,5 +1,8 @@
- i am good
+
 <<<<<<< HEAD
+=======
+=======
+>>>>>>> 8ab071c3ea590ddd5633d09db1df0f2c6f449aed
   Just left Zeebrugge, now Tilburg, then Tesla HQ in Amsterdam & Oslo tonight to review service in Norway. Exciting to see thousands of Model 3’s on their way to owners in Europe!
  i am bad
 
@@ -11,5 +14,9 @@ i am bnot changing
 
 
 
+<<<<<<< HEAD
 =======
 >>>>>>> 18a193f023609fcc7beec9513ca1d0a2b2f2070a
+=======
+>>>>>>> branch1
+>>>>>>> 8ab071c3ea590ddd5633d09db1df0f2c6f449aed
