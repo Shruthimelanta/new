@@ -1,3 +1,7 @@
 hi
 
+<<
 stage
+=======
+good day
+>>>>>>> Stashed changes
